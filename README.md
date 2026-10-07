@@ -4,7 +4,7 @@ Adds a **FAMILY** badge to games in the Steam app's store search when you can al
 
 Steam only tells you this on a game's own page. This shows it right in the search list, so you don't buy something your family already owns.
 
-![Search results with FAMILY badges](https://github.com/user-attachments/assets/6cdf3737-4ef8-4bff-951f-5fac467a0756)
+![Search results with FAMILY badges](https://github.com/user-attachments/assets/7537aff9-84c1-41ce-b6aa-fee039d697c7)
 
 ## How to run
 
